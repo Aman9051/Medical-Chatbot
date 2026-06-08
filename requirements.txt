@@ -1,0 +1,16 @@
+flask
+python-dotenv
+pypdf
+
+langchain==1.2.15
+langchain-core
+langchain-community
+langchain-pinecone
+langchain-huggingface
+langchain-text-splitters
+
+pinecone
+
+sentence-transformers
+
+llama-cpp-python
